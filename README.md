@@ -2,3 +2,4 @@ Each file is a submission for a project on roadmap.sh & can be downloaded and ra
 
 server-stats.sh = https://roadmap.sh/projects/server-stats
 log-archiver.sh = https://roadmap.sh/projects/log-archive-tool
+nginx-log-analyzer.sh = https://roadmap.sh/projects/nginx-log-analyser
